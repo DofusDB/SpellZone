@@ -1,0 +1,23 @@
+{
+  "name": "spellparser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha --experimental-modules"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DofusDB/SpellParser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DofusDB/SpellParser/issues"
+  },
+  "homepage": "https://github.com/DofusDB/SpellParser#readme",
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  }
+}
