@@ -1,5 +1,5 @@
 {
-  "name": "spellparser",
+  "name": "spellzone",
   "version": "1.0.0",
   "description": "",
   "main": "src/index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DofusDB/SpellParser.git"
+    "url": "git+https://github.com/DofusDB/SpellZone.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DofusDB/SpellParser/issues"
+    "url": "https://github.com/DofusDB/SpellZone/issues"
   },
-  "homepage": "https://github.com/DofusDB/SpellParser#readme",
+  "homepage": "https://github.com/DofusDB/SpellZone#readme",
   "devDependencies": {
     "mocha": "^10.2.0"
   }
